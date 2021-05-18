@@ -2,7 +2,7 @@
 - 👀 I’m interested in Video Game design, coding, and 3d modeling
 - 🌱 I’m currently learning how to code modularly and keep an easy to maintain codebase
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me
+- 📫 How to reach me: arianagchow@gmail.com
 
 <!---
 AGChow/AGChow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
